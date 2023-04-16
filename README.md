@@ -1,6 +1,4 @@
-# Top diez weones más detonados
-# Número uno:
-# Maximiliano Santelices
+# Simplemente increible 
 
 **IIC1001, Algoritmos y sistemas computacionales**
 
