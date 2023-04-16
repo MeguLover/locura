@@ -1,4 +1,6 @@
-# top diez cosas más locas; Número uno, Maximiliano Santelices
+# Top diez weones más detonados
+# Número uno:
+# Maximiliano Santelices
 
 **IIC1001, Algoritmos y sistemas computacionales**
 
