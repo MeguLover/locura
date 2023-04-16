@@ -1,1 +1,1 @@
-print("Oye, ¿sabías que en términos de...")
+print("3 + 4 es igual a 7")
