@@ -1,4 +1,4 @@
-# top diez cosas más locas; Número uno, Maximiliano Santelices
+# Simplemente increible 
 
 **IIC1001, Algoritmos y sistemas computacionales**
 
