@@ -1,1 +1,1 @@
-print("no entiendo ninguna wea de lo q estoy haciendo xd")
+print("Oye, ¿sabías que en términos de...")
